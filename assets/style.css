@@ -1,7 +1,38 @@
-.proParagraph {
-    font-size: 1em;
+.display-4 {
+    text-shadow: silver;
+    font-size: 100;
+    font-family: fantasy;
+}
 
-    margin-left: .5em;
+.lead {
+    text-shadow: silver;
+    font-family: fantasy;
+}
+
+.proNameLuan {
+    font-family: cursive;
+    background-color: silver;
+    margin-right: 15em;
+    margin-left: 1em;
+}
+
+.proNameNyjah {
+    font-family: cursive;
+    background-color: teal;
+    margin-right: 15em;
+    margin-left: 1em;
+}
+
+.proNameBoo {
+    font-family: cursive;
+    background-color: pink;
+    margin-right: 15em;
+    margin-left: 1em;
+}
+.proParagraph {
+    font-size: 20px;
+    font-family: cursive;
+    margin-left: 1em;
     border-style: inherit;
 
 }
